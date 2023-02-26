@@ -1,0 +1,7 @@
+SQLEXPRESS: Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+
+LAPTOP-KDG21POI\Bhavik: C:\Program Files\Microsoft SQL Server\160\Setup Bootstrap\Log\20230211_150338
+
+SQLENGINE: C:\SQL2022\Express_ENU
+
+16.0.1000.6, RTM: C:\Program Files\Microsoft SQL Server\160\SSEI\Resources
